@@ -1,4 +1,7 @@
 # RevEngi BOT
 
+> [!TIP]
+> Try Now: [@RevEngiBot](https://t.me/RevEngiBot)
+
 # Overview
-<img width="6762" alt="RevEngi Bot Intro" src="https://github.com/RevEngiSquad/.github/assets/85984486/db6e6b08-2f9d-4a6b-84d2-fb3e614084fd">
+<img width="6762" alt="RevEngi Bot Intro" src="https://github.com/RevEngiSquad/.github/assets/85984486/9deac20d-9251-41d5-8ba3-dd4689a1af58">
