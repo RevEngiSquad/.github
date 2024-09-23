@@ -17,6 +17,7 @@
 |Java to Smali conversion | All test passed ✅ |
 |ARM Converter | All test passed ✅ |
 |APK Protector | All test passed ✅ |
+| APKiD | All test passed ✅ |
 |XML Decompiler | All test passed ✅ |
 |APK Analyzer | All test passed ✅ |
 |APK SRC Decompiler | All test passed ✅ |
@@ -25,6 +26,8 @@
 |Coding Ai Assistant | All test passed ✅ |
 |Blutter Integration | All test passed ✅ |
 |Frida Scripts | Work remaining ⚙️ |
+|APK Signer | Work remaining ⚙️ |
 |Smart Regex Converter | Idea ready ⚙️ |
 |Regex Maker | Being worked on ⚙️ |
 |More features | Currently being researched 🔍 |
+
