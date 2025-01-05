@@ -29,7 +29,7 @@
 | **Blutter Integration**  | All test passed ✅     |
 | **Frida Compile**        | All test passed ✅     |
 | **APK Signer**           | All test passed ✅     |
+| **Regex Maker**          | All test passed ✅     |
 | **Smart Regex Converter**| Being worked on ⚙️     |
-| **Regex Maker**          | Being worked on ⚙️     |
 | **More features**        | Currently researched 🔍|
 
