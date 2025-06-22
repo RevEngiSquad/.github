@@ -1,19 +1,23 @@
-# RevEngi BOT
+# RevEngi
+
+Revolutionizing the workflow for reverse engineers and developers. Explore powerful tools like Blutter, Smali Grammar, Java-Smali converters, Regex Maker, APK Info, and more. All at your fingertips through our easy-to-use Telegram bot or REST API or our APP.
 
 > [!TIP]
-> Try Now: [@RevEngiBot](https://t.me/RevEngiBot)
+> Try Now: [RevEngiBot](https://t.me/RevEngiBot)
+> 
+> REST API Docs: [RevEngi API](https://www.revengi.in/docs/api)
+> 
+> RevEngi APP: [RevEngi APP](https://www.revengi.in/downloads)
 
-# Overview
-- "Premium" is merely a label; in reality, all services are free except for file size restrictions, which are due to our limited budget for servers.
-<img width="6762" alt="RevEngi Bot Intro" src="https://github.com/user-attachments/assets/e0d2a8f6-f108-4fc5-86a3-8689f75631a0">
-
-| Feature                   | Status                  |
-| ------------------------- | ----------------------- |
+| Feature                   | Status                 |
+| ------------------------- | ---------------------- |
 | **Base Converter**        | All test passed ✅      |
 | **Smali Grammar**         | All test passed ✅      |
 | **Smali to Java**         | All test passed ✅      |
 | **Smali to Frida**        | All test passed ✅      |
 | **Dex to Java**           | All test passed ✅      |
+| **Dex to Jar**            | All test passed ✅      |
+| **Dex to C**              | All test passed ✅      |
 | **Dex Repair**            | All test passed ✅      |
 | **Dex Obfuscation**       | All test passed ✅      |
 | **JADX/CFR/Fern/Vine**    | All test passed ✅      |
@@ -36,5 +40,8 @@
 | **Cocos2d (jsc) Decrypt** | All test passed ✅      |
 | **JNI Info Extractor**    | All test passed ✅      |
 | **Smart Regex Converter** | All test passed ✅      |
+| **SSL Patch**             | All test passed ✅      |
+| **PairIP Patch**          | All test passed ✅      |
 | **More features**         | Currently researched 🔍 |
+
 
